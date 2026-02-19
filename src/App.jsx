@@ -27,7 +27,7 @@ function App() {
     <div className="login-container">
       <div className="login-card">
         <div className="login-left">
-          <h1 className="login-title">Hello \Mga Way Pulos!</h1>
+          <h1 className="login-title">Hello!</h1>
           <p className="login-subtitle">Sign in to your account</p>
           
           <form onSubmit={handleSubmit} className="login-form">
@@ -114,7 +114,7 @@ function App() {
           </div>
           <h2 className="welcome-title">Welcome Back!</h2>
           <p className="welcome-text">
-           Salamat sa tanan balik lang diri ug gusto pa nimo mo balik ani nga SITE daghang salamat sa imong pag ka maayo! uuuuuhhhhhhh ulol!
+            We're glad to see you again. Please sign in to continue accessing your account and enjoy our services.
           </p>
         </div>
       </div>
